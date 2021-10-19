@@ -1,0 +1,10 @@
+.carousel-banner img{
+    height: 400px;
+}
+
+.banner-heading{
+    width: 300px;
+    padding: 8px;
+    background-color: white;
+    color: rgb(80, 44, 238);
+}
